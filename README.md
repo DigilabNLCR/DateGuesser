@@ -5,4 +5,4 @@ Extension of the AuthorGuesser project, aimed at detecting dating of texts.
 
 The project is now under developement.
 
-First authors to explore are Hejduk, Světlá, and Jirásek
+First authors to explore are Heyduk, Světlá, and Jirásek
