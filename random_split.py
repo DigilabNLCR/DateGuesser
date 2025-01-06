@@ -8,6 +8,7 @@ from __future__ import print_function, unicode_literals
 import argparse
 import logging
 import time
+import os
 
 import random
 
@@ -80,28 +81,55 @@ def build_argument_parser():
 
     return parser
 
+# NOTE: Edit to args --> input_xml, output_xml, proportion_test, proportion_dev
+# def main(args):
+#     logging.info('Starting main...')
+#     _start_time = time.process_time()
 
-def main(args):
+#     if args.proportion_test > 1:
+#         raise ValueError('Test proportion must be between 0 and 1! Is: {}'.format(args.proportion_test))
+#     if args.proportion_dev > 1:
+#         raise ValueError('Dev proportion must be between 0 and 1! Is: {}'.format(args.proportion_dev))
+
+#     # Your code goes here
+#     with open(args.input_xml, encoding='utf-8') as fh:
+#         lines = fh.readlines()
+#         lines = [l.rstrip() for l in lines]   # strip newline
+
+#     types_per_passage_header = set_passage_types(lines,
+#                                                  args.proportion_test,
+#                                                  args.proportion_dev)
+
+#     lines_with_passage_types = apply_passage_types(lines, types_per_passage_header)
+
+#     with open(args.output_xml, 'w', encoding='utf-8') as fh:
+#         fh.writelines([l + '\n' for l in lines_with_passage_types])
+
+
+#     _end_time = time.process_time()
+#     logging.info('random_split_udpipe.py done in {0:.3f} s'.format(_end_time - _start_time))
+
+def main(input_xml, output_xml, proportion_test, proportion_dev):
     logging.info('Starting main...')
     _start_time = time.process_time()
 
-    if args.proportion_test > 1:
-        raise ValueError('Test proportion must be between 0 and 1! Is: {}'.format(args.proportion_test))
-    if args.proportion_dev > 1:
-        raise ValueError('Dev proportion must be between 0 and 1! Is: {}'.format(args.proportion_dev))
+    if proportion_test > 1:
+        raise ValueError('Test proportion must be between 0 and 1! Is: {}'.format(proportion_test))
+    if proportion_dev > 1:
+        raise ValueError('Dev proportion must be between 0 and 1! Is: {}'.format(proportion_dev))
 
     # Your code goes here
-    with open(args.input_xml, encoding='utf-8') as fh:
+    with open(input_xml, encoding='utf-8') as fh:
         lines = fh.readlines()
         lines = [l.rstrip() for l in lines]   # strip newline
 
     types_per_passage_header = set_passage_types(lines,
-                                                 args.proportion_test,
-                                                 args.proportion_dev)
+                                                 proportion_test,
+                                                 proportion_dev)
 
     lines_with_passage_types = apply_passage_types(lines, types_per_passage_header)
 
-    with open(args.output_xml, 'w', encoding='utf-8') as fh:
+    with open(output_xml, 'w', encoding='utf-8') as fh:
         fh.writelines([l + '\n' for l in lines_with_passage_types])
 
 
@@ -110,12 +138,21 @@ def main(args):
 
 
 if __name__ == '__main__':
-    parser = build_argument_parser()
-    args = parser.parse_args()
+    # parser = build_argument_parser()
+    # args = parser.parse_args()
 
-    if args.verbose:
-        logging.basicConfig(format='%(levelname)s: %(message)s', level=logging.INFO)
-    if args.debug:
-        logging.basicConfig(format='%(levelname)s: %(message)s', level=logging.DEBUG)
+    # if args.verbose:
+    #     logging.basicConfig(format='%(levelname)s: %(message)s', level=logging.INFO)
+    # if args.debug:
+    #     logging.basicConfig(format='%(levelname)s: %(message)s', level=logging.DEBUG)
 
-    main(args)
+    # NOTE: random splitting multiple files.
+
+    INPUT_FOLDER = 'Dataset/Svetla_final/'
+    OUTPUT_FOLDER = 'Dataset/Svetla_random_split/'
+
+    for xml_file in os.listdir(INPUT_FOLDER):
+        input_xml = os.path.join(INPUT_FOLDER, xml_file)
+        output_xml = os.path.join(OUTPUT_FOLDER, xml_file)
+
+        main(input_xml, output_xml, 0.2, 0.2)
