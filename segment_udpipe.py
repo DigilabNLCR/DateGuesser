@@ -550,8 +550,8 @@ if __name__ == '__main__':
 
     # NOTE: random splitting multiple files.
 
-    INPUT_FOLDER = 'Dataset/Svetla_final/'
-    OUTPUT_FOLDER = 'Dataset/Svetla_passages/'
+    INPUT_FOLDER = 'Dataset/Jirasek_final/'
+    OUTPUT_FOLDER = 'Dataset/Jirasek_passages/'
 
     for xml_file in os.listdir(INPUT_FOLDER):
         input_xml = os.path.join(INPUT_FOLDER, xml_file)
@@ -565,4 +565,4 @@ if __name__ == '__main__':
             sentence_end_count = data.count('</s>')
             print('Sentence count:', sentence_count, sentence_end_count, uuid)
 
-        main(input_xml, output_xml, target_length=500, author_code='svetla', book_uuid=uuid, year=uuid_to_year[uuid], use_existing_segmentation=False)
+        main(input_xml, output_xml, target_length=500, author_code='jirasek', book_uuid=uuid, year=uuid_to_year[uuid], use_existing_segmentation=False)

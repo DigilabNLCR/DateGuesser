@@ -20,6 +20,8 @@ Version description/updates:
 0.0.1: Initial setup for few basic models.
 """
 
+# TODO: add note to skip the empty files in training (?) Maybe not necessary.
+
 
 """ Shared settings: ---------------------------------------------------------------------------------------------- """
 segmentations = ['s-1000', 's-500', 's-200', 's-100', 's-50']
