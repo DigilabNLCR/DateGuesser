@@ -3,7 +3,7 @@ DateGuesser is an extension of the [AuthorGuesser project](https://github.com/Di
 
 # Current Status
 
-The project is now under developement.
+The project is now under developement. Therefore, no final workflow has been created yet. For the process, see scripts in the jupyter notebook [development.ipynb](https://github.com/DigilabNLCR/DateGuesser/blob/main/development.ipynb)
 
 Experimetns have been done on Heyduk
 
