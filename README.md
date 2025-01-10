@@ -22,7 +22,7 @@ The data distribution is a first problem. On the following chart ([interactive](
 
 For that reason, we have used 10-year periods instead of 1-year periods. We have run 73 leave-one-out experiments (in each case using 72 compositions for training and 1 for evaluation). The chosen ML model was LinearSVC (sklearn.svm.LinearSVC). The following heatmap¨([interactive](https://public.flourish.studio/visualisation/20676148/)) shows cumulative results where chunks of 10 stanzas are used as input documents (in sum, there are 6572 stanzas in the dataset). Shorter compositions (the shortest has only 2 stnzas) were used as whole. The results are less then satisfactory.
 
-![Heyduk results](https://github.com/DigilabNLCR/DateGuesser/blob/main/img/heyduk_10_results.png)
+![Heyduk results](https://github.com/DigilabNLCR/DateGuesser/blob/main/img/heyduk_results.png)
 
 ### Future lines of inquiry
 
