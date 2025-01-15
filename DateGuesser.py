@@ -419,6 +419,7 @@ if __name__ == '__main__':
             for key in detail:
                 details_for_heatmap[key] += detail[key]
 
+    # NOTE: plotting a heatmap for the test data - Heyduk only (5 randomly selected compositions).
     df_heatmap = transform_detail_to_plotly_heatmap(details_for_heatmap, data_path=DATA_PATH)
 
     fig = px.imshow(df_heatmap, labels=dict(x='Guessed period', y='True period', color='percentage'), color_continuous_scale='Viridis')
