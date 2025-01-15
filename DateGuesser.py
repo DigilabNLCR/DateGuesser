@@ -362,7 +362,7 @@ def evaluate_model_on_loo_compostition(model_name:str, models_path:str, document
         detail[(true_period, guessed_period)] += 1
 
     eval_score = score['correct'] / (score['correct'] + score['incorrect'])
-    print (Fore.GREEN + '\t', composition, 'Score:', score, '\n\t', 'Evaluation score:', eval_score)
+    print(Fore.GREEN + '\t', composition, 'Score:', score, '\n\t', 'Evaluation score:', eval_score)
     print(Style.RESET_ALL)
     
     return score, eval_score, detail
