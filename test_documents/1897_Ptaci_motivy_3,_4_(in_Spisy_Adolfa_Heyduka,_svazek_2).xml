@@ -1,0 +1,443 @@
+<stanza pattern="11010011010">
+	<token>form="Sen" lemma="sen" upos="NOUN" xpos="NNIS1-----A----" feats="Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="slunce" lemma="slunce" upos="NOUN" xpos="NNNS2-----A----" feats="Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos"</token>
+	<token>form="," lemma="," upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+	<token>form="červánek" lemma="červánek" upos="NOUN" xpos="NNMS1-----A----" feats="Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="," lemma="," upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+	<token>form="dne" lemma="den" upos="NOUN" xpos="NNIS2-----A----" feats="Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="věrný" lemma="věrný" upos="ADJ" xpos="AAMS1----1A----" feats="Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="sluha" lemma="sluha" upos="NOUN" xpos="NNMS1-----A----" feats="Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="," lemma="," upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="1101000101">
+	<token>form="v" lemma="v" upos="ADP" xpos="RR--4----------" feats="AdpType=Prep|Case=Acc"</token>
+	<token>form="kraj" lemma="kraj" upos="NOUN" xpos="NNIS4-----A----" feats="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="nebes" lemma="nebesa" upos="NOUN" xpos="NNNP2-----A----" feats="Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos"</token>
+	<token>form="na" lemma="na" upos="ADP" xpos="RR--6----------" feats="AdpType=Prep|Case=Loc"</token>
+	<token>form="západě" lemma="západ" upos="NOUN" xpos="NNIS6-----A----" feats="Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="zlato" lemma="zlato" upos="NOUN" xpos="NNNS4-----A----" feats="Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos"</token>
+	<token>form="tkal" lemma="tkát" upos="VERB" xpos="VpYS---XR-AA---" feats="Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act"</token>
+	<token>form="," lemma="," upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="01000100010">
+	<token>form="jak" lemma="jak" upos="ADV" xpos="Db-------------" feats="PronType=Int,Rel"</token>
+	<token>form="na" lemma="na" upos="ADP" xpos="RR--4----------" feats="AdpType=Prep|Case=Acc"</token>
+	<token>form="příkrov" lemma="příkrov" upos="NOUN" xpos="NNIS4-----A----" feats="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="by" lemma="být" upos="AUX" xpos="Vc-------------" feats="Mood=Cnd|VerbForm=Fin"</token>
+	<token>form="zabitého" lemma="zabitý" upos="ADJ" xpos="AAMS4----1A----" feats="Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass"</token>
+	<token>form="druha" lemma="druh" upos="NOUN" xpos="NNMS4-----A----" feats="Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+</stanza>
+<stanza pattern="110101">
+	<token>form="druh" lemma="druh" upos="NOUN" xpos="NNIS1-----A----" feats="Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="rudé" lemma="rudý" upos="ADJ" xpos="AAFS2----1A----" feats="Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos"</token>
+	<token>form="růže" lemma="růže" upos="NOUN" xpos="NNFS2-----A----" feats="Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos"</token>
+	<token>form="dal" lemma="dát" upos="VERB" xpos="VpYS---XR-AA---" feats="Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act"</token>
+	<token>form="." lemma="." upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="11000100010">
+	<token>form="V" lemma="v" upos="ADP" xpos="RR--4----------" feats="AdpType=Prep|Case=Acc"</token>
+	<token>form="plášť" lemma="plášť" upos="NOUN" xpos="NNIS4-----A----" feats="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="mlhový" lemma="mlhový" upos="ADJ" xpos="AAIS4----1A----" feats="Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="se" lemma="se" upos="PRON" xpos="P7-X4----------" feats="Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short"</token>
+	<token>form="přioděla" lemma="přiodět" upos="VERB" xpos="VpQW---XR-AA---" feats="Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act"</token>
+	<token>form="země" lemma="země" upos="NOUN" xpos="NNFS1-----A----" feats="Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos"</token>
+	<token>form="," lemma="," upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="1101000101">
+	<token>form="kraj" lemma="kraj" upos="NOUN" xpos="NNIS1-----A----" feats="Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="v" lemma="v" upos="ADP" xpos="RR--6----------" feats="AdpType=Prep|Case=Loc"</token>
+	<token>form="dálce" lemma="dálka" upos="NOUN" xpos="NNFS6-----A----" feats="Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos"</token>
+	<token>form="temněl" lemma="temnít" upos="VERB" xpos="VpYS---XR-AA---" feats="Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act"</token>
+	<token>form="se" lemma="se" upos="PRON" xpos="P7-X4----------" feats="Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short"</token>
+	<token>form="jak" lemma="jak" upos="SCONJ" xpos="J,-------------" feats="_"</token>
+	<token>form="v" lemma="v" upos="ADP" xpos="RR--6----------" feats="AdpType=Prep|Case=Loc"</token>
+	<token>form="hloubce" lemma="hloubka" upos="NOUN" xpos="NNFS6-----A----" feats="Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos"</token>
+	<token>form="hrob" lemma="hrob" upos="NOUN" xpos="NNIS1-----A----" feats="Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="," lemma="," upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="01010101010">
+	<token>form="a" lemma="a" upos="CCONJ" xpos="J^-------------" feats="_"</token>
+	<token>form="v" lemma="v" upos="ADP" xpos="RR--4----------" feats="AdpType=Prep|Case=Acc"</token>
+	<token>form="slzy" lemma="slza" upos="NOUN" xpos="NNFP4-----A----" feats="Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos"</token>
+	<token>form="travin" lemma="travina" upos="NOUN" xpos="NNFP2-----A----" feats="Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos"</token>
+	<token>form="s" lemma="s" upos="ADP" xpos="RR--2----------" feats="AdpType=Prep|Case=Gen"</token>
+	<token>form="křídel" lemma="křídlo" upos="NOUN" xpos="NNNP2-----A----" feats="Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos"</token>
+	<token>form="zory" lemma="zora" upos="NOUN" xpos="NNFS2-----A----" feats="Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos"</token>
+	<token>form="jemně" lemma="jemně" upos="ADV" xpos="Dg-------1A----" feats="Degree=Pos|Polarity=Pos"</token>
+</stanza>
+<stanza pattern="110101">
+	<token>form="déšť" lemma="déšť" upos="NOUN" xpos="NNIS1-----A----" feats="Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="padal" lemma="padat" upos="VERB" xpos="VpYS---XR-AA---" feats="Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act"</token>
+	<token>form="zlatých" lemma="zlatý" upos="ADJ" xpos="AAFP2----1A----" feats="Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos"</token>
+	<token>form="zdob" lemma="zdoba" upos="NOUN" xpos="NNFP2-----A----" feats="Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos"</token>
+	<token>form="." lemma="." upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="01010001010">
+	<token>form="Jak" lemma="jak" upos="ADV" xpos="Db-------------" feats="PronType=Int,Rel"</token>
+	<token>form="úsměv" lemma="úsměv" upos="NOUN" xpos="NNIS1-----A----" feats="Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="," lemma="," upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+	<token>form="vytesaný" lemma="vytesaný" upos="ADJ" xpos="AAIS1----1A----" feats="Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass"</token>
+	<token>form="soše" lemma="socha" upos="NOUN" xpos="NNFS3-----A----" feats="Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos"</token>
+	<token>form="v" lemma="v" upos="ADP" xpos="RR--6----------" feats="AdpType=Prep|Case=Loc"</token>
+	<token>form="tváři" lemma="tvář" upos="NOUN" xpos="NNFS6-----A----" feats="Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos"</token>
+	<token>form="," lemma="," upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="1101001001">
+	<token>form="tkvěl" lemma="tkvět" upos="VERB" xpos="VpYS---XR-AA---" feats="Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act"</token>
+	<token>form="něhy" lemma="něha" upos="NOUN" xpos="NNFS2-----A----" feats="Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos"</token>
+	<token>form="ruměnec" lemma="ruměnec" upos="NOUN" xpos="NNIS1-----A----" feats="Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="na" lemma="na" upos="ADP" xpos="RR--6----------" feats="AdpType=Prep|Case=Loc"</token>
+	<token>form="líci" lemma="líc" upos="NOUN" xpos="NNIS6-----A----" feats="Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="hor" lemma="hora" upos="NOUN" xpos="NNFP2-----A----" feats="Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos"</token>
+	<token>form=";" lemma=";" upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="11010100010">
+	<token>form="luh" lemma="luh" upos="NOUN" xpos="NNIS1-----A----" feats="Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="dýchal" lemma="dýchat" upos="VERB" xpos="VpYS---XR-AA---" feats="Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act"</token>
+	<token>form="kvítím" lemma="kvítí" upos="NOUN" xpos="NNNS7-----A----" feats="Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos"</token>
+	<token>form="," lemma="," upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+	<token>form="slunečnou" lemma="slunečný" upos="ADJ" xpos="AAFS7----1A----" feats="Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos"</token>
+	<token>form="spit" lemma="spit" upos="NOUN" xpos="AAXXX----1A----" feats="Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos"</token>
+	<token>form="září" lemma="záře" upos="NOUN" xpos="NNFS7-----A----" feats="Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos"</token>
+	<token>form="," lemma="," upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="010101">
+	<token>form="a" lemma="a" upos="CCONJ" xpos="J^-------------" feats="_"</token>
+	<token>form="smolnou" lemma="smolný" upos="ADJ" xpos="AAFS7----1A----" feats="Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos"</token>
+	<token>form="vůní" lemma="vůně" upos="NOUN" xpos="NNFS7-----A----" feats="Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos"</token>
+	<token>form="bor" lemma="bora" upos="NOUN" xpos="NNFP2-----A----" feats="Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos"</token>
+	<token>form="." lemma="." upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="11000101010">
+	<token>form="Les" lemma="les" upos="NOUN" xpos="NNIS1-----A----" feats="Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="oněměl" lemma="oněmět" upos="VERB" xpos="VpYS---XR-AA---" feats="Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act"</token>
+	<token>form="a" lemma="a" upos="CCONJ" xpos="J^-------------" feats="_"</token>
+	<token>form="zíral" lemma="zírat" upos="VERB" xpos="VpYS---XR-AA---" feats="Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act"</token>
+	<token>form="k" lemma="k" upos="ADP" xpos="RR--3----------" feats="AdpType=Prep|Case=Dat"</token>
+	<token>form="nebes" lemma="nebesa" upos="NOUN" xpos="NNNP3-----A----" feats="Case=Dat|Gender=Neut|Number=Plur|Polarity=Pos"</token>
+	<token>form="nivě" lemma="nivě" upos="ADV" xpos="Dg-------1A----" feats="Degree=Pos|Polarity=Pos"</token>
+</stanza>
+<stanza pattern="1001000101">
+	<token>form="na" lemma="na" upos="ADP" xpos="RR--4----------" feats="AdpType=Prep|Case=Acc"</token>
+	<token>form="siné" lemma="siný" upos="ADJ" xpos="AAFP4----1A----" feats="Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos"</token>
+	<token>form="večernice" lemma="večernice" upos="NOUN" xpos="NNFP4-----A----" feats="Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos"</token>
+	<token>form="jasný" lemma="jasný" upos="ADJ" xpos="AAIS4----1A----" feats="Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="vjezd" lemma="vjezd" upos="NOUN" xpos="NNIS4-----A----" feats="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="," lemma="," upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="01000101000">
+	<token>form="jež" lemma="jenž" upos="PRON" xpos="PJXP4----------" feats="Case=Acc|Number=Plur|PrepCase=Npr|PronType=Rel"</token>
+	<token>form="v" lemma="v" upos="ADP" xpos="RR--4----------" feats="AdpType=Prep|Case=Acc"</token>
+	<token>form="zelený" lemma="zelený" upos="ADJ" xpos="AAIS4----1A----" feats="Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="mu" lemma="on" upos="PRON" xpos="PHZS3--3-------" feats="Case=Dat|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs|Variant=Short"</token>
+	<token>form="sen" lemma="sen" upos="NOUN" xpos="NNIS4-----A----" feats="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="vždy" lemma="vždy" upos="ADV" xpos="Db-------------" feats="PronType=Tot"</token>
+	<token>form="milostivě" lemma="milostivě" upos="ADV" xpos="Dg-------1A----" feats="Degree=Pos|Polarity=Pos"</token>
+</stanza>
+<stanza pattern="110101">
+	<token>form="květ" lemma="květ" upos="NOUN" xpos="NNIS4-----A----" feats="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="snáší" lemma="snášet" upos="VERB" xpos="VB-S---3P-AA---" feats="Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act"</token>
+	<token>form="lesklých" lemma="lesklý" upos="ADJ" xpos="AAFP2----1A----" feats="Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos"</token>
+	<token>form="hvězd" lemma="hvězda" upos="NOUN" xpos="NNFP2-----A----" feats="Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos"</token>
+	<token>form="." lemma="." upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="01010101010">
+	<token>form="V" lemma="v" upos="ADP" xpos="RR--6----------" feats="AdpType=Prep|Case=Loc"</token>
+	<token>form="mé" lemma="můj" upos="DET" xpos="PSFS2-S1------1" feats="Case=Loc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs"</token>
+	<token>form="krve" lemma="krev" upos="NOUN" xpos="NNFS6-----A----" feats="Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos"</token>
+	<token>form="každé" lemma="každý" upos="DET" xpos="AAFS3----1A----" feats="Case=Dat|Gender=Fem|Number=Sing|PronType=Tot"</token>
+	<token>form="kapce" lemma="kapka" upos="NOUN" xpos="NNFS3-----A----" feats="Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos"</token>
+	<token>form="slunce" lemma="slunce" upos="NOUN" xpos="NNNS1-----A----" feats="Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos"</token>
+	<token>form="hrálo" lemma="hrát" upos="VERB" xpos="VpNS---XR-AA---" feats="Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act"</token>
+	<token>form="," lemma="," upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="0101010101">
+	<token>form="a" lemma="a" upos="CCONJ" xpos="J^-------------" feats="_"</token>
+	<token>form="pestrým" lemma="pestrý" upos="ADJ" xpos="AAIS7----1A----" feats="Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="květem" lemma="květ" upos="NOUN" xpos="NNIS7-----A----" feats="Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="bujel" lemma="bujet" upos="VERB" xpos="VpYS---XR-AA---" feats="Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act"</token>
+	<token>form="v" lemma="v" upos="ADP" xpos="RR--6----------" feats="AdpType=Prep|Case=Loc"</token>
+	<token>form="duši" lemma="duše" upos="NOUN" xpos="NNFS6-----A----" feats="Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos"</token>
+	<token>form="cit" lemma="cit" upos="NOUN" xpos="NNIS1-----A----" feats="Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form=";" lemma=";" upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="01010100010">
+	<token>form="vždyť" lemma="vždyť" upos="CCONJ" xpos="J^-------------" feats="_"</token>
+	<token>form="vínem" lemma="víno" upos="NOUN" xpos="NNNS7-----A----" feats="Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos"</token>
+	<token>form="," lemma="," upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+	<token>form="v" lemma="v" upos="ADP" xpos="RR--6----------" feats="AdpType=Prep|Case=Loc"</token>
+	<token>form="hlavách" lemma="hlava" upos="NOUN" xpos="NNFP6-----A----" feats="Case=Loc|Gender=Fem|Number=Plur|Polarity=Pos"</token>
+	<token>form="poetů" lemma="poet" upos="NOUN" xpos="NNMP2-----A----" feats="Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos"</token>
+	<token>form="jež" lemma="jenž" upos="PRON" xpos="PJNS1----------" feats="Case=Nom|Gender=Neut|Number=Sing|PrepCase=Npr|PronType=Rel"</token>
+	<token>form="zrálo" lemma="zrát" upos="VERB" xpos="VpNS---XR-AA---" feats="Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act"</token>
+	<token>form="," lemma="," upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="010010">
+	<token>form="byl" lemma="být" upos="AUX" xpos="VpYS---XR-AA---" feats="Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act"</token>
+	<token>form="zjařen" lemma="zjařený" upos="ADJ" xpos="VsYS---XX-AP---" feats="Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass"</token>
+	<token>form="jsem" lemma="být" upos="AUX" xpos="VB-S---1P-AA---" feats="Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act"</token>
+	<token>form="a" lemma="a" upos="CCONJ" xpos="J^-------------" feats="_"</token>
+	<token>form="spit" lemma="spit" upos="VERB" xpos="Vf--------A----" feats="Polarity=Pos|VerbForm=Inf"</token>
+	<token>form="." lemma="." upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="01010001010">
+	<token>form="Tak" lemma="tak" upos="ADV" xpos="Db-------------" feats="PronType=Dem"</token>
+	<token>form="šel" lemma="jít" upos="VERB" xpos="VpYS---XR-AA---" feats="Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act"</token>
+	<token>form="jsem" lemma="být" upos="AUX" xpos="VB-S---1P-AA---" feats="Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act"</token>
+	<token>form="nitrem" lemma="nitro" upos="NOUN" xpos="NNNS7-----A----" feats="Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos"</token>
+	<token>form="tvým" lemma="tvůj" upos="DET" xpos="P8ZS7----------" feats="Case=Ins|Gender=Masc,Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes"</token>
+	<token>form="a" lemma="a" upos="CCONJ" xpos="J^-------------" feats="_"</token>
+	<token>form="duší" lemma="duše" upos="NOUN" xpos="NNFS7-----A----" feats="Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos"</token>
+	<token>form="tvojí" lemma="tvůj" upos="DET" xpos="P8FS7----------" feats="Case=Ins|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes"</token>
+	<token>form="," lemma="," upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="0101010101">
+	<token>form="a" lemma="a" upos="CCONJ" xpos="J^-------------" feats="_"</token>
+	<token>form="přání" lemma="přání" upos="ADJ" xpos="AAIS1----1A----" feats="Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass"</token>
+	<token>form="roj" lemma="roj" upos="NOUN" xpos="NNIS1-----A----" feats="Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="mi" lemma="já" upos="PRON" xpos="PH-S3--1-------" feats="Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short"</token>
+	<token>form="v" lemma="v" upos="ADP" xpos="RR--6----------" feats="AdpType=Prep|Case=Loc"</token>
+	<token>form="hloubce" lemma="hloubka" upos="NOUN" xpos="NNFS6-----A----" feats="Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos"</token>
+	<token>form="ňader" lemma="ňadra" upos="NOUN" xpos="NNNP2-----A----" feats="Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos"</token>
+	<token>form="tkvěl" lemma="tkvět" upos="VERB" xpos="VpYS---XR-AA---" feats="Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act"</token>
+	<token>form="," lemma="," upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="01000101010">
+	<token>form="ty" lemma="ty" upos="PRON" xpos="PP-S1--2-------" feats="Case=Nom|Number=Sing|Person=2|PronType=Prs"</token>
+	<token>form="hlavě" lemma="hlava" upos="NOUN" xpos="NNFS3-----A----" feats="Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos"</token>
+	<token>form="mé" lemma="můj" upos="DET" xpos="PSNS1-S1------1" feats="Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs"</token>
+	<token>form="jsi" lemma="být" upos="AUX" xpos="VB-S---2P-AA---" feats="Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act"</token>
+	<token>form="žehnal" lemma="žehnat" upos="VERB" xpos="VpYS---XR-AA---" feats="Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act"</token>
+	<token>form="šumnou" lemma="šumný" upos="ADJ" xpos="AAFS7----1A----" feats="Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos"</token>
+	<token>form="chvojí" lemma="chvoje" upos="NOUN" xpos="NNFS7-----A----" feats="Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos"</token>
+	<token>form="," lemma="," upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="110001">
+	<token>form="mech" lemma="mech" upos="NOUN" xpos="NNIS1-----A----" feats="Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="u" lemma="u" upos="ADP" xpos="RR--2----------" feats="AdpType=Prep|Case=Gen"</token>
+	<token>form="nohou" lemma="noha" upos="NOUN" xpos="NNFP2-----A----" feats="Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos"</token>
+	<token>form="se" lemma="se" upos="PRON" xpos="P7-X4----------" feats="Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short"</token>
+	<token>form="chvěl" lemma="chvět" upos="VERB" xpos="VpYS---XR-AA---" feats="Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act"</token>
+	<token>form="." lemma="." upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="01000100010">
+	<token>form="Vše" lemma="všechen" upos="DET" xpos="PLNS1---------1" feats="Case=Nom|Gender=Neut|Number=Sing|PronType=Tot"</token>
+	<token>form="líbalo" lemma="líbat" upos="VERB" xpos="VpNS---XR-AA---" feats="Aspect=Imp|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act"</token>
+	<token>form="mě" lemma="já" upos="PRON" xpos="PH-S4--1-------" feats="Case=Acc|Number=Sing|Person=1|PronType=Prs|Variant=Short"</token>
+	<token>form="tajemně" lemma="tajemně" upos="ADV" xpos="Dg-------1A----" feats="Degree=Pos|Polarity=Pos"</token>
+	<token>form="a" lemma="a" upos="CCONJ" xpos="J^-------------" feats="_"</token>
+	<token>form="tiše" lemma="tiše" upos="ADV" xpos="Dg-------1A----" feats="Degree=Pos|Polarity=Pos"</token>
+</stanza>
+<stanza pattern="0100010100">
+	<token>form="a" lemma="a" upos="CCONJ" xpos="J^-------------" feats="_"</token>
+	<token>form="objímalo" lemma="objímat" upos="VERB" xpos="VpNS---XR-AA---" feats="Aspect=Imp|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act"</token>
+	<token>form="vůně" lemma="vůně" upos="NOUN" xpos="NNFP4-----A----" feats="Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos"</token>
+	<token>form="ramenem" lemma="rameno" upos="NOUN" xpos="NNNS7-----A----" feats="Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos"</token>
+	<token>form=";" lemma=";" upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="11001100010">
+	<token>form="rty" lemma="ret" upos="NOUN" xpos="NNIP7-----A----" feats="Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos"</token>
+	<token>form="žhavými" lemma="žhavý" upos="ADJ" xpos="AAIP7----1A----" feats="Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos"</token>
+	<token>form="pil" lemma="pít" upos="NOUN" xpos="NNIS7-----A----" feats="Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="z" lemma="z" upos="ADP" xpos="RR--2----------" feats="AdpType=Prep|Case=Gen"</token>
+	<token>form="úkoje" lemma="úkoj" upos="NOUN" xpos="NNIS2-----A----" feats="Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="jsem" lemma="být" upos="AUX" xpos="VB-S---1P-AA---" feats="Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act"</token>
+	<token>form="číše" lemma="číše" upos="NOUN" xpos="NNFP4-----A----" feats="Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos"</token>
+</stanza>
+<stanza pattern="010100">
+	<token>form="a" lemma="a" upos="CCONJ" xpos="J^-------------" feats="_"</token>
+	<token>form="v" lemma="v" upos="ADP" xpos="RR--6----------" feats="AdpType=Prep|Case=Loc"</token>
+	<token>form="kráse" lemma="krása" upos="NOUN" xpos="NNFS6-----A----" feats="Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos"</token>
+	<token>form="tonul" lemma="tonout" upos="VERB" xpos="VpYS---XR-AA---" feats="Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act"</token>
+	<token>form="jsem" lemma="být" upos="AUX" xpos="VB-S---1P-AA---" feats="Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act"</token>
+	<token>form="." lemma="." upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="01000100010">
+	<token>form="Já" lemma="já" upos="PRON" xpos="PP-S1--1-------" feats="Case=Nom|Number=Sing|Person=1|PronType=Prs"</token>
+	<token>form="šťasten" lemma="šťastný" upos="ADJ" xpos="ACYS------A----" feats="Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short"</token>
+	<token>form="byl" lemma="být" upos="AUX" xpos="VpYS---XR-AA---" feats="Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act"</token>
+	<token>form="a" lemma="a" upos="CCONJ" xpos="J^-------------" feats="_"</token>
+	<token>form="zbožňuji" lemma="zbožňovat" upos="VERB" xpos="VB-S---1P-AA--1" feats="Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act"</token>
+	<token>form="tě" lemma="ty" upos="PRON" xpos="PH-S4--2-------" feats="Case=Acc|Number=Sing|Person=2|PronType=Prs|Variant=Short"</token>
+	<token>form="," lemma="," upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+	<token>form="lese" lemma="les" upos="NOUN" xpos="NNMS5-----A----" feats="Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="," lemma="," upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="0100010100">
+	<token>form="a" lemma="a" upos="CCONJ" xpos="J^-------------" feats="_"</token>
+	<token>form="zahynu" lemma="zahynout" upos="VERB" xpos="VB-S---1P-AA---" feats="Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act"</token>
+	<token>form="-" lemma="-" upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+	<token>form="li" lemma="li" upos="PART" xpos="TT-------------" feats="_"</token>
+	<token>form="v" lemma="v" upos="ADP" xpos="RR--6----------" feats="AdpType=Prep|Case=Loc"</token>
+	<token>form="houštích" lemma="houště" upos="NOUN" xpos="NNFP6-----A----" feats="Case=Loc|Gender=Fem|Number=Plur|Polarity=Pos"</token>
+	<token>form="ztemnělých" lemma="ztemnělý" upos="ADJ" xpos="AAFP6----1A----" feats="Case=Loc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos"</token>
+	<token>form="," lemma="," upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="01010001010">
+	<token>form="pak" lemma="pak" upos="ADV" xpos="Db-------------" feats="_"</token>
+	<token>form="duch" lemma="duch" upos="NOUN" xpos="NNMS1-----A----" feats="Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="můj" lemma="můj" upos="DET" xpos="PSYS1-S1-------" feats="Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs"</token>
+	<token>form="ptákem" lemma="pták" upos="NOUN" xpos="NNMS7-----A----" feats="Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="ať" lemma="ať" upos="PART" xpos="TT-------------" feats="_"</token>
+	<token>form="se" lemma="se" upos="PRON" xpos="P7-X4----------" feats="Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short"</token>
+	<token>form="u" lemma="u" upos="ADP" xpos="RR--2----------" feats="AdpType=Prep|Case=Gen"</token>
+	<token>form="výš" lemma="vysoko" upos="ADV" xpos="NNFS2-----A----" feats="Degree=Cmp|Polarity=Pos"</token>
+	<token>form="vznese" lemma="vznést" upos="VERB" xpos="VB-S---3P-AA---" feats="Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act"</token>
+</stanza>
+<stanza pattern="110100">
+	<token>form="v" lemma="v" upos="ADP" xpos="RR--4----------" feats="AdpType=Prep|Case=Acc"</token>
+	<token>form="hruď" lemma="hruď" upos="NOUN" xpos="NNFS4-----A----" feats="Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos"</token>
+	<token>form="dumných" lemma="dumný" upos="ADJ" xpos="AAIP2----1A----" feats="Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos"</token>
+	<token>form="stromů" lemma="strom" upos="NOUN" xpos="NNIP2-----A----" feats="Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos"</token>
+	<token>form="tvých" lemma="tvůj" upos="DET" xpos="P8XP2----------" feats="Case=Gen|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes"</token>
+	<token>form="." lemma="." upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="01010101010">
+	<token>form="Ať" lemma="ať" upos="PART" xpos="TT-------------" feats="_"</token>
+	<token>form="zpívá" lemma="zpívat" upos="VERB" xpos="VB-S---3P-AA---" feats="Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act"</token>
+	<token>form="tobě" lemma="ty" upos="PRON" xpos="PH-S3--2-------" feats="Case=Dat|PronType=Prs|Reflex=Yes"</token>
+	<token>form="zemi" lemma="země" upos="NOUN" xpos="NNFS3-----A----" feats="Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos"</token>
+	<token>form="v" lemma="v" upos="ADP" xpos="RR--4----------" feats="AdpType=Prep|Case=Acc"</token>
+	<token>form="zdar" lemma="zdar" upos="NOUN" xpos="NNIS4-----A----" feats="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="i" lemma="i" upos="CCONJ" xpos="J^-------------" feats="_"</token>
+	<token>form="lidu" lemma="lid" upos="NOUN" xpos="NNIS3-----A----" feats="Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+</stanza>
+<stanza pattern="0100100100">
+	<token>form="a" lemma="a" upos="CCONJ" xpos="J^-------------" feats="_"</token>
+	<token>form="těší" lemma="těšit" upos="VERB" xpos="VB-S---3P-AA---" feats="Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act"</token>
+	<token>form="vše" lemma="všechen" upos="DET" xpos="PLNS4---------1" feats="Case=Acc|Gender=Neut|Number=Sing|PronType=Tot"</token>
+	<token>form="," lemma="," upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+	<token>form="jak" lemma="jak" upos="ADV" xpos="Db-------------" feats="PronType=Int,Rel"</token>
+	<token>form="já" lemma="já" upos="PRON" xpos="PP-S1--1-------" feats="Case=Nom|Number=Sing|Person=1|PronType=Prs"</token>
+	<token>form="byl" lemma="být" upos="AUX" xpos="VpYS---XR-AA---" feats="Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act"</token>
+	<token>form="potěšen" lemma="potěšený" upos="ADJ" xpos="VsYS---XX-AP---" feats="Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass"</token>
+	<token>form="," lemma="," upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="01000101010">
+	<token>form="když" lemma="když" upos="SCONJ" xpos="J,-------------" feats="_"</token>
+	<token>form="úkoje" lemma="úkoj" upos="NOUN" xpos="NNIS2-----A----" feats="Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="jsem" lemma="být" upos="AUX" xpos="VB-S---1P-AA---" feats="Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act"</token>
+	<token>form="srdci" lemma="srdce" upos="NOUN" xpos="NNNS3-----A----" feats="Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos"</token>
+	<token>form="ždál" lemma="ždát" upos="VERB" xpos="VpYS---XR-AA---" feats="Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act"</token>
+	<token>form="a" lemma="a" upos="CCONJ" xpos="J^-------------" feats="_"</token>
+	<token>form="klidu" lemma="klid" upos="NOUN" xpos="NNIS2-----A----" feats="Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="," lemma="," upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="100101">
+	<token>form="bolestí" lemma="bolest" upos="NOUN" xpos="NNFS7-----A----" feats="Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos"</token>
+	<token>form="lačných" lemma="lačný" upos="ADJ" xpos="AAFP2----1A----" feats="Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos"</token>
+	<token>form="plen" lemma="plena" upos="NOUN" xpos="NNFP2-----A----" feats="Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos"</token>
+	<token>form="." lemma="." upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="01000101010">
+	<token>form="A" lemma="a" upos="CCONJ" xpos="J^-------------" feats="_"</token>
+	<token>form="zhubí" lemma="zhubit" upos="VERB" xpos="VB-S---3P-AA---" feats="Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act"</token>
+	<token>form="-" lemma="-" upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+	<token>form="li" lemma="li" upos="PART" xpos="TT-------------" feats="_"</token>
+	<token>form="mě" lemma="já" upos="PRON" xpos="PH-S4--1-------" feats="Case=Acc|Number=Sing|Person=1|PronType=Prs|Variant=Short"</token>
+	<token>form="vrah" lemma="vrah" upos="NOUN" xpos="NNMS1-----A----" feats="Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="neb" lemma="neb" upos="CCONJ" xpos="J^-------------" feats="_"</token>
+	<token>form="v" lemma="v" upos="ADP" xpos="RR--4----------" feats="AdpType=Prep|Case=Acc"</token>
+	<token>form="ňadra" lemma="ňadra" upos="NOUN" xpos="NNNP4-----A----" feats="Case=Acc|Gender=Neut|Number=Plur|Polarity=Pos"</token>
+	<token>form="střelí" lemma="střelit" upos="VERB" xpos="VB-S---3P-AA---" feats="Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act"</token>
+	<token>form="," lemma="," upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="0101010001">
+	<token>form="a" lemma="a" upos="CCONJ" xpos="J^-------------" feats="_"</token>
+	<token>form="srdce" lemma="srdce" upos="NOUN" xpos="NNNS1-----A----" feats="Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos"</token>
+	<token>form="bíti" lemma="bít" upos="VERB" xpos="Vf--------A---2" feats="Polarity=Pos|Style=Arch|VerbForm=Inf"</token>
+	<token>form="ustane" lemma="ustat" upos="VERB" xpos="VB-S---3P-AA---" feats="Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act"</token>
+	<token>form="a" lemma="a" upos="CCONJ" xpos="J^-------------" feats="_"</token>
+	<token>form="pět" lemma="pět" upos="NUM" xpos="Cn-S1----------" feats="Case=Nom|Number=Sing|NumForm=Word|NumType=Card"</token>
+	<token>form="," lemma="," upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="01010101010">
+	<token>form="ať" lemma="ať" upos="SCONJ" xpos="J,-------------" feats="_"</token>
+	<token>form="pojí" lemma="pojit" upos="VERB" xpos="VB-S---3P-AA---" feats="Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act"</token>
+	<token>form="zemi" lemma="země" upos="NOUN" xpos="NNFS4-----A----" feats="Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos"</token>
+	<token>form="nach" lemma="nacha" upos="NOUN" xpos="NNFP2-----A----" feats="Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos"</token>
+	<token>form="mých" lemma="můj" upos="DET" xpos="PSXP2-S1-------" feats="Case=Gen|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs"</token>
+	<token>form="prsou" lemma="prsa" upos="NOUN" xpos="NNFP2-----A----" feats="Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos"</token>
+	<token>form="vřelý" lemma="vřelý" upos="ADJ" xpos="AAIS4----1A----" feats="Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="," lemma="," upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="010001">
+	<token>form="bych" lemma="být" upos="AUX" xpos="Vc-S---1-------" feats="Mood=Cnd|Number=Sing|Person=1|VerbForm=Fin"</token>
+	<token>form="vzrostl" lemma="vzrůst" upos="VERB" xpos="VpYS---XR-AA---" feats="Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act"</token>
+	<token>form="z" lemma="z" upos="ADP" xpos="RR--2----------" feats="AdpType=Prep|Case=Gen"</token>
+	<token>form="ní" lemma="on" upos="PRON" xpos="P5FS2--3-------" feats="Case=Gen|Gender=Fem|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs"</token>
+	<token>form="jak" lemma="jak" upos="SCONJ" xpos="J,-------------" feats="_"</token>
+	<token>form="květ" lemma="květ" upos="NOUN" xpos="NNIS1-----A----" feats="Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="." lemma="." upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="01010101010">
+	<token>form="Pak" lemma="pak" upos="ADV" xpos="Db-------------" feats="_"</token>
+	<token>form="místo" lemma="místo" upos="ADP" xpos="RR--2----------" feats="AdpType=Prep|Case=Gen"</token>
+	<token>form="zpěvu" lemma="zpěv" upos="NOUN" xpos="NNIS2-----A----" feats="Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="chodci" lemma="chodec" upos="NOUN" xpos="NNMS3-----A----" feats="Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="vonět" lemma="vonět" upos="VERB" xpos="Vf--------A----" feats="Polarity=Pos|VerbForm=Inf"</token>
+	<token>form="budu" lemma="být" upos="AUX" xpos="VB-S---1F-AA---" feats="Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act"</token>
+	<token>form="," lemma="," upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="1101010001">
+	<token>form="skryt" lemma="skrytý" upos="ADJ" xpos="VsYS---XX-AP---" feats="Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass"</token>
+	<token>form="v" lemma="v" upos="ADP" xpos="RR--6----------" feats="AdpType=Prep|Case=Loc"</token>
+	<token>form="kypré" lemma="kyprý" upos="ADJ" xpos="AAFS6----1A----" feats="Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos"</token>
+	<token>form="trávě" lemma="tráva" upos="NOUN" xpos="NNFS6-----A----" feats="Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos"</token>
+	<token>form="prozářených" lemma="prozářený" upos="ADJ" xpos="AANP2----1A----" feats="Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass"</token>
+	<token>form="míst" lemma="místo" upos="NOUN" xpos="NNNP2-----A----" feats="Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos"</token>
+	<token>form="," lemma="," upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="01010101010">
+	<token>form="a" lemma="a" upos="CCONJ" xpos="J^-------------" feats="_"</token>
+	<token>form="snivou" lemma="snivý" upos="ADJ" xpos="AAFS4----1A----" feats="Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos"</token>
+	<token>form="dívku" lemma="dívka" upos="NOUN" xpos="NNFS4-----A----" feats="Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos"</token>
+	<token>form="těšit" lemma="těšit" upos="VERB" xpos="Vf--------A----" feats="Aspect=Imp|Polarity=Pos|VerbForm=Inf"</token>
+	<token>form="v" lemma="v" upos="ADP" xpos="RR--4----------" feats="AdpType=Prep|Case=Acc"</token>
+	<token>form="srdce" lemma="srdce" upos="NOUN" xpos="NNNS4-----A----" feats="Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos"</token>
+	<token>form="trudu" lemma="trud" upos="NOUN" xpos="NNIS2-----A----" feats="Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="," lemma="," upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="010101">
+	<token>form="než" lemma="než" upos="SCONJ" xpos="J,-------------" feats="_"</token>
+	<token>form="ztratím" lemma="ztratit" upos="VERB" xpos="VB-S---1P-AA---" feats="Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act"</token>
+	<token>form="pel" lemma="pel" upos="NOUN" xpos="NNIS4-----A----" feats="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="a" lemma="a" upos="CCONJ" xpos="J^-------------" feats="_"</token>
+	<token>form="list" lemma="list" upos="NOUN" xpos="NNIS4-----A----" feats="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="." lemma="." upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="01000100010">
+	<token>form="Leč" lemma="leč" upos="SCONJ" xpos="J,-------------" feats="_"</token>
+	<token>form="poutníkovou" lemma="poutníkový" upos="ADJ" xpos="AAFS7----1A----" feats="Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos"</token>
+	<token>form="zahyne" lemma="zahynout" upos="VERB" xpos="VB-S---3P-AA---" feats="Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act"</token>
+	<token>form="-" lemma="-" upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+	<token>form="li" lemma="li" upos="PART" xpos="TT-------------" feats="_"</token>
+	<token>form="nohou" lemma="noha" upos="NOUN" xpos="NNFS7-----A----" feats="Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos"</token>
+</stanza>
+<stanza pattern="0101010100">
+	<token>form="mé" lemma="můj" upos="DET" xpos="PSNS1-S1------1" feats="Case=Nom|Gender=Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs"</token>
+	<token>form="květné" lemma="květný" upos="ADJ" xpos="AANS1----1A----" feats="Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos"</token>
+	<token>form="žití" lemma="žití" upos="NOUN" xpos="NNNS1-----A----" feats="Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun"</token>
+	<token>form="v" lemma="v" upos="ADP" xpos="RR--6----------" feats="AdpType=Prep|Case=Loc"</token>
+	<token>form="slunných" lemma="slunný" upos="ADJ" xpos="AAIP6----1A----" feats="Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos"</token>
+	<token>form="porostech" lemma="porost" upos="NOUN" xpos="NNIP6-----A----" feats="Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos"</token>
+	<token>form="," lemma="," upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+</stanza>
+<stanza pattern="01010101000">
+	<token>form="pak" lemma="pak" upos="ADV" xpos="Db-------------" feats="_"</token>
+	<token>form="nechať" lemma="nechať" upos="VERB" xpos="Vi-S---2--A----" feats="Aspect=Imp|Polarity=Neg|VerbForm=Inf"</token>
+	<token>form="s" lemma="s" upos="ADP" xpos="RR--7----------" feats="AdpType=Prep|Case=Ins"</token>
+	<token>form="každou" lemma="každý" upos="DET" xpos="AAFS7----1A----" feats="Case=Ins|Gender=Fem|Number=Sing|PronType=Tot"</token>
+	<token>form="duší" lemma="duše" upos="NOUN" xpos="NNFS7-----A----" feats="Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos"</token>
+	<token>form="přeubohou" lemma="přeubohý" upos="ADJ" xpos="AAFS7----1A----" feats="Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos"</token>
+</stanza>
+<stanza pattern="110001">
+	<token>form="jdu" lemma="jít" upos="VERB" xpos="VB-S---1P-AA---" feats="Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act"</token>
+	<token>form="šerem" lemma="šero" upos="NOUN" xpos="NNNS7-----A----" feats="Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos"</token>
+	<token>form="tvým" lemma="tvůj" upos="DET" xpos="PDZS7----------" feats="Case=Ins|Gender=Masc,Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes"</token>
+	<token>form="jak" lemma="jak" upos="SCONJ" xpos="J,-------------" feats="_"</token>
+	<token>form="vzdech" lemma="vzdech" upos="NOUN" xpos="NNIS1-----A----" feats="Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos"</token>
+	<token>form="." lemma="." upos="PUNCT" xpos="Z:-------------" feats="_"</token>
+	<token>form="–" lemma="–" upos="ADP" xpos="NNNXX-----A----" feats="_"</token>
+</stanza>
+<composition_info name="1897_Ptaci_motivy_3,_4_(in_Spisy_Adolfa_Heyduka,_svazek_2)" year="1897" types="['iamb']"></composition_info>
