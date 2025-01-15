@@ -24,6 +24,10 @@ For that reason, we have used 10-year periods instead of 1-year periods. We have
 
 ![Heyduk results](https://github.com/DigilabNLCR/DateGuesser/blob/main/img/heyduk_results.png)
 
+### BETA version preview
+
+With the document [DateGuesser.py](https://github.com/DigilabNLCR/DateGuesser/blob/main/DateGuesser.py), you can test the script and [pre-trained models and vectorisers](https://github.com/DigilabNLCR/DateGuesser/tree/main/test_models) on five randomly [selected compositions](https://github.com/DigilabNLCR/DateGuesser/tree/main/test_documents). These document represent the leave-one-document for the pre-trained models, meaning the evaluation is done on data not used in the training.
+
 ### Future lines of inquiry
 
 The problem may be that exploring a developement of one author only cannot reveal any real date changes. It is possible that if the training dataset is densened with a pleyad of different authors, some literary period tendencies may surface. In addition, other approaches, delexicalisation methods, and feature extractions may be useful in reaching better results. In the end, however, the current team remains sceptical towards this line of inquiry.
